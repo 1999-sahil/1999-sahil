@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sahilahmed466@gmail.com**
 
-- ⚡ Fun fact **I love anime (Bankai, Gomu Gomu no, Shadow Clone, Kamehameha)**
+- ⚡ Fun fact **I love anime (Bankai, Gomu Gomu no, Rasengan, Kamehameha)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
