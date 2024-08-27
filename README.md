@@ -2,7 +2,9 @@
 
 ---
 
-![Header](./github-header.png)
+<p align="center">
+  <img src="./website.jpg" alt="Header" width="100%" height="400"/>
+</p>
 
 ---
 
@@ -78,11 +80,7 @@
 <h2 align="center">⚡ My Stats ⚡</h2>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=1999-sahil&theme=vision-friendly-dark" alt="streak-stats" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=1999-sahil&show_icons=true&theme=vision-friendly-dark" alt="stats" />
+    <img src="https://streak-stats.demolab.com/?user=1999-sahil&theme=vision-friendly-dark" alt="streak-stats" /> <img src="https://github-readme-stats.vercel.app/api?username=1999-sahil&show_icons=true&theme=vision-friendly-dark" alt="stats" />
 </div>
 
 <div align="center">
