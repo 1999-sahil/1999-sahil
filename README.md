@@ -1,8 +1,12 @@
-![Header](./github-header.png
+<h2 align="left"> <img src="https://komarev.com/ghpvc/?username=1999-sahil&label=%20Visitors&color=0e75b6&style=flat" alt="1999-sahil" /> </h2>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=1999-sahil&label=%20Visitors&color=0e75b6&style=flat" alt="1999-sahil" /> </p>
+---
 
-<h1 align="center">Hi 👋, I'm Sahil Ahmed</h1>
+![Header](./github-header.png)
+
+---
+
+<h1 align="center">Hi everyone 👋, I'm Sahil Ahmed</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&size=30&pause=1000&color=5FFB17&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Frontend+Developer;I'm+a+Fullstack+Dev;I'm+a+Reactjs+Developer;I'm+a+UI+Developer;I'm+a+JS+Developer" alt="Typing SVG"
@@ -15,7 +19,7 @@
 
 ---
  
-<h3 align="center">A passionate Software Developer from India, IN</h3>
+<h2 align="center">🔥 A passionate Software Developer from India, IN 🔥</h2>
 
 <p align="center">🔭 I’m currently working on <strong>Full Stack Development</strong></p>
 
@@ -36,7 +40,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">🔗 Connect with me 🔗</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/sahil-ahmed" target="blank">
@@ -51,27 +55,38 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
 
-<p align="center">
+<div align="center">
+    <kbd align="center">
+    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,babel,bootstrap,c,cpp,css,express,figma,firebase,github,gmail,html,htmx,java,js,mongodb,mysql,netlify,nextjs,materialui,nodejs,npm,prisma,redux,sass,svg,tailwind,ts,vite,vscode,windows&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,react,babel,bootstrap,c,cpp,css,express,figma,firebase,github,gmail,html,htmx,java,js,mongodb,mysql,netlify,nextjs,materialui,nodejs,npm,prisma,redux,sass,svg,tailwind,ts,vite,vscode,windows&perline=16" />
   </a>
 </p>
+</kbd>
+</div>
 
 ---
 
-<h3 align="center">My Contribution</h3>
+<h2 align="center">🐍 My Contribution 🐍</h2>
 
 
 
 ---
 
-<h3 align="center">Stats</h3>
+<h2 align="center">⚡ My Stats ⚡</h2>
 
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=1999-sahil&theme=vision-friendly-dark" alt="streak-stats" />
 </div>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=1999-sahil&show_icons=true&theme=vision-friendly-dark" alt="stats" />
+</div>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999-sahil&theme=vision-friendly-dark&size_weight=0.5&count_weight=0.5" alt="languages" />
+</div>
 
+---
