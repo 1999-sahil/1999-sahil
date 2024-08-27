@@ -1,10 +1,7 @@
 <h2 align="left"> <img src="https://komarev.com/ghpvc/?username=1999-sahil&label=%20Visitors&color=0e75b6&style=flat" alt="1999-sahil" /> </h2>
 
 ---
-
-<p align="center">
-  <img src="./website.jpg" alt="Header" width="100%" height="400"/>
-</p>
+![Header](./header.png)
 
 ---
 
