@@ -71,7 +71,7 @@
 <h2 align="center">🐍 My Contribution 🐍</h2>
 
 <div align="center">
-    <img src="https://github.com/1999-sahil/1999-sahil/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" />
+    <img src="https://github.com/1999-sahil/1999-sahil/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake-animation" />
 </div>
 
 ---
