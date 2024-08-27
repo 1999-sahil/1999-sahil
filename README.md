@@ -1,26 +1,46 @@
-![Header](./github-header.png)
+![Header](./github-header.png
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=1999-sahil&label=%20Visitors&color=0e75b6&style=flat" alt="1999-sahil" /> </p>
 
 <h1 align="center">Hi 👋, I'm Sahil Ahmed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&size=30&pause=1000&color=5FFB17&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Frontend+Developer;I'm+a+Fullstack+Dev;I'm+a+Reactjs+Developer;I'm+a+UI+Developer;I'm+a+JS+Developer" alt="Typing SVG"
+    />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1999-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="1999-sahil" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white" />    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+</p>
 
+---
+ 
+<h4 align="center">A passionate Software Developer from India, IN</h4>
+
+<p align="center">
 - 🔭 I’m currently working on **Full Stack Development**
-
+</p>
+<p align="center">
 - 🌱 I’m currently learning **Node.js, Express.js**
-
+</p>
+<p align="center">
 - 👯 I’m looking to collaborate on **real life industry problems**
-
-- 👨‍💻 All of my projects are available at [https://sahil-ahmed-devlab-la1ueobvg-1999sahils-projects.vercel.app/](https://sahil-ahmed-devlab-la1ueobvg-1999sahils-projects.vercel.app/)
-
+</p>
+<p align="center">
+- 👨‍💻 All of my projects are available at [Portfolio](https://sahil-ahmed-devlab-la1ueobvg-1999sahils-projects.vercel.app/)
+</p>
+<p align="center">
 - 💬 Ask me about **React.js, Next.js**
-
+</p>
+<p align="center">
 - 📫 How to reach me **sahilahmed466@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tIVSUotSDTObSh_rZcb9-fePVnhyThRF/view?usp=sharing](https://drive.google.com/file/d/1tIVSUotSDTObSh_rZcb9-fePVnhyThRF/view?usp=sharing)
-
+</p>
+<p align="center">
+ - 📄 Know about my experiences [https://drive.google.com/file/d/1tIVSUotSDTObSh_rZcb9-fePVnhyThRF/view?usp=sharing](https://drive.google.com/file/d/1tIVSUotSDTObSh_rZcb9-fePVnhyThRF/view?usp=sharing) 
+</p>
+<p align="center">
 - ⚡ Fun fact **I love watching Anime**
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
