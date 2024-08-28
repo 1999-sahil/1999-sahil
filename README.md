@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sahilahmed466@gmail.com" target="_blank"><img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white" /></a>    <a href="https://github.com/1999-sahil" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>    <a href="https://www.linkedin.com/in/sahil-ahmed-86222718a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>    <a href="https://sahil-ahmed-devlab-la1ueobvg-1999sahils-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:sahilahmed466@gmail.com" target="_blank"><img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white" /></a>    <a href="https://github.com/1999-sahil" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>    <a href="https://www.linkedin.com/in/sahil-ahmed-86222718a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>    <a href="https://sahil-ahmed-devlab.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 <p align="center">👯 I’m looking to collaborate on <strong>real life industry problems</strong></p>
 
-<p align="center">👨‍💻 All of my projects are available at <a href="https://sahil-ahmed-devlab-la1ueobvg-1999sahils-projects.vercel.app/" target="_blank">Portfolio</a></p>
+<p align="center">👨‍💻 All of my projects are available at <a href="https://sahil-ahmed-devlab.vercel.app/" target="_blank">Portfolio</a></p>
 
 <p align="center">💬 Ask me about <strong>React.js, Next.js, Node.js</strong></p>
 
