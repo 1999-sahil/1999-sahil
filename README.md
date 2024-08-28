@@ -5,8 +5,6 @@
 
 ---
 
-<h1 align="center">Hi everyone 👋, I'm Sahil Ahmed</h1>
-
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&size=30&pause=1000&color=5FFB17&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Frontend+Developer;I'm+a+Fullstack+Dev;I'm+a+Reactjs+Developer;I'm+a+UI+Developer;I'm+a+JS+Developer" alt="Typing SVG"
     />
