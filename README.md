@@ -58,7 +58,7 @@
     <kbd align="center">
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,babel,bootstrap,c,cpp,css,express,figma,firebase,github,gmail,html,htmx,java,js,mongodb,mysql,netlify,nextjs,materialui,nodejs,npm,prisma,redux,sass,svg,tailwind,ts,vite,vscode,windows&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,react,babel,api,bootstrap,c,cpp,css,express,figma,firebase,github,gmail,html,htmx,java,js,mongodb,mysql,netlify,nextjs,materialui,nodejs,npm,prisma,redux,sass,svg,tailwind,ts,vite,vscode,windows&perline=12" />
   </a>
 </p>
 </kbd>
