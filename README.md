@@ -20,7 +20,7 @@
 
 <p align="center">🔭 I’m currently working on <strong>Full Stack Development</strong></p>
 
-<p align="center">🌱 I’m currently learning <strong>Node.js, Express.js</strong></p>
+<p align="center">🌱 I’m currently learning <strong>RESTful API using Node.js along with Express.js</strong></p>
 
 <p align="center">👯 I’m looking to collaborate on <strong>real life industry problems</strong></p>
 
