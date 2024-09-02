@@ -16,7 +16,7 @@
 
 ---
  
-<h2 align="center">🔥 A passionate Software Developer from India, IN 🔥</h2>
+<h2 align="center">🔥 A passionate aspiring Software Developer from India, IN 🔥</h2>
 
 <p align="center">🔭 I’m currently working on <strong>Full Stack Development</strong></p>
 
