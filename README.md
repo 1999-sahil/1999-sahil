@@ -22,7 +22,7 @@
 
 <p align="center">🌱 I’m currently learning <strong>RESTful API using Node.js along with Express.js</strong></p>
 
-<p align="center">👯 I’m looking to collaborate on <strong>real life industry problems</strong></p>
+<p align="center">👯 I’m looking to collaborate on <strong>real life industry problems</strong> and open to learn any tech stack.</p>
 
 <p align="center">👨‍💻 All of my projects are available at <a href="https://sahil-ahmed-devlab.vercel.app/" target="_blank">Portfolio</a></p>
 
