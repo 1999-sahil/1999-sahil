@@ -18,7 +18,7 @@
  
 <h2 align="center">🔥 On the Road to Software Development 🔥</h2>
 
-<p align="center">🔭 I’m currently working on <strong>Backend Development (MERN)</strong></p>
+<p align="center">🔭 I’m currently working on <strong>Full Stack Development (MERN)</strong></p>
 
 <p align="center">🌱 I’m currently learning <strong>RESTful API using Node.js along with Express.js</strong></p>
 
