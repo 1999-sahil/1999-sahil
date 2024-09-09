@@ -26,7 +26,7 @@
 
 <p align="center">👨‍💻 All of my projects are available at <a href="https://sahil-ahmed-devlab.vercel.app/" target="_blank">Portfolio</a></p>
 
-<p align="center">💬 Ask me about <strong>React.js, Next.js, Node.js</strong></p>
+<p align="center">💬 Ask me about <strong>React.js/Next.js, Node.js</strong></p>
 
 <p align="center">📫 How to reach me <strong>sahilahmed466@gmail.com</strong></p>
 
