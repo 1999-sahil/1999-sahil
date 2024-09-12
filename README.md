@@ -16,7 +16,7 @@
 
 ---
  
-<h2 align="center">🔥 On the Road to Software  🔥</h2>
+<h2 align="center">🔥 On the Road to Software Development 🔥</h2>
 
 <p align="center">🔭 I’m currently working on <strong>Full Stack Development (MERN)</strong></p>
 
